@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1712391680,
+	"version": 1741187761,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,8 @@
 		"images/pausebtn-sheet0.png",
 		"images/pausebtn-sheet1.png",
 		"images/popupbackground.png",
+		"images/touchleft.png",
+		"images/sprite-sheet0.png",
 		"media/fruit-collision.ogg",
 		"media/panda-jump.ogg",
 		"media/hit-bomb.ogg",

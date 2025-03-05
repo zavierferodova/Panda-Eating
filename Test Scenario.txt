@@ -1,0 +1,10 @@
+Test Scenario
+- [v] Move Panda Using A, W, D
+- [v] Move Panda Using Arrow Button
+- [v] Move Using Touch Screen
+- [v] Press Button Pause Game
+- [v] Press Button Help Game
+- [v] Press Button P to Pause Game
+- [v] Press Button H to Help Game
+- [v] Space or Touch to Continue
+- [v] Game Over Disable Pause and Help
