@@ -1,4 +1,5 @@
 Test Scenario
+- [v] Resume Start Game
 - [v] Move Panda Using A, W, D
 - [v] Move Panda Using Arrow Button
 - [v] Move Using Touch Screen
